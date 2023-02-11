@@ -1,0 +1,3 @@
+1. deschidere in folder proiect a power shell shift+click dreapta
+2. initializare git prin git init
+3.
